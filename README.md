@@ -18,7 +18,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="C" src="https://zupimages.net/up/21/20/viej.png" />
+  <img alt="C" src="https://img.shields.io/badge/-C-FFEE00?style=flat-square&logo=C&logoColor=black" />
   <img alt="C++" src="https://zupimages.net/up/21/20/bug7.png" />
   <img alt="C#" src="https://zupimages.net/up/21/20/w5na.png" />
   <img alt="Java" src="https://zupimages.net/up/21/20/dcu5.png" />
