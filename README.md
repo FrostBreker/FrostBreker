@@ -10,7 +10,7 @@
 - 📫 How to reach me: [Discord](https://discord.gg/QHqYVuBpF4)
 - 💻 I use [VSC](https://code.visualstudio.com/) and [Idea](https://www.jetbrains.com/fr-fr/idea/) IDE powered by [Microsoft](https://visualstudio.microsoft.com/fr/) and [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
 - 🥖 I live in France
-- [<img src="https://zupimages.net/up/19/34/5qd1.png" width="24"/> Twitter](https://twitter.com/FrostBreker)
+- [<img src="https://zupimages.net/up/19/34/5qd1.png" width="24" target="_BLANK"/> Twitter](https://twitter.com/FrostBreker)
 
 
 ## 🌍 Programming languages:
