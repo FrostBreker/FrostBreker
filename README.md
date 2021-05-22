@@ -1,6 +1,6 @@
 ### Hi, I'm FrostBreker (NK7)
 
-[![discord](https://discord.com/api/guilds/559414466664464384/widget.png)](https://discord.gg/QHqYVuBpF4)
+[![discord](https://discord.com/api/guilds/830547170980921346/widget.png)](https://discord.gg/QHqYVuBpF4)
 
 
 
