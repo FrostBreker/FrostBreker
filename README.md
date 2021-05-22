@@ -41,9 +41,9 @@
 
 ## 🚩 Projects:
 - [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte Bot](https://github.com/FrostBreker/Ecole-Direct-Bot)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="24"/> EcoleDirecte Login web](https://github.com/FrostBreker/ec-site)
-- [<img src="https://images.discordapp.net/avatars/634818840542445580/eabd1fc9d9165714ad6662e7e6b35705.png?size=512" width="24"/> EcoleDirecte Bot Site](https://github.com/FrostBreker/ecoledirecte-bot-web)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="24"/> discord-antiraid](https://github.com/Derpinou/discord-antiraid)
+- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte Login web](https://github.com/FrostBreker/ec-site)
+- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte Bot Site](https://github.com/FrostBreker/ecoledirecte-bot-web)
+- [<img src="https://zupimages.net/up/21/20/x2gt.png" width="24"/> Netherite MC1.7.10](https://github.com/FrostBreker/Netherite-1.7.10)
 
 
 <p align="left"> 
