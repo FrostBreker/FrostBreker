@@ -1,12 +1,14 @@
-### Hi, I'm Derp
+### Hi, I'm FrostBreker (NK7)
 
-[![discord](https://discord.com/api/guilds/559414466664464384/widget.png)](https://discord.gg/yAYZumWDA4)
+[![discord](https://discord.com/api/guilds/559414466664464384/widget.png)](https://discord.gg/QHqYVuBpF4)
 
 
 
-- 🔭 I’m currently working on [AtomBot](https://github.com/Derpinou/AtomBot)
-- 📫 How to reach me: [Discord](https://discord.gg/j9WzjnA)
-- 💻 I use [Webstorm](https://www.jetbrains.com/fr-fr/webstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
+- 🔭 I’m currently working on [EcoleDirecte BOT](https://github.com/FrostBreker/Ecole-Direct-Bot)
+- 🔭 [EcoleDirecte Login web](https://github.com/FrostBreker/ec-site) and ...
+- 🔭 [EcoleDirecte Bot Site](https://github.com/FrostBreker/ecoledirecte-bot-web)
+- 📫 How to reach me: [Discord](https://discord.gg/QHqYVuBpF4)
+- 💻 I use [VSC](https://code.visualstudio.com/) and [Idea](https://www.jetbrains.com/fr-fr/idea/) IDE powered by [Microsoft](https://code.visualstudio.com/) and [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
 - 🥖 I live in France
 
 
