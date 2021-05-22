@@ -8,17 +8,20 @@
 - 🔭 [EcoleDirecte Login web](https://github.com/FrostBreker/ec-site) and ...
 - 🔭 [EcoleDirecte Bot Site](https://github.com/FrostBreker/ecoledirecte-bot-web)
 - 📫 How to reach me: [Discord](https://discord.gg/QHqYVuBpF4)
-- 💻 I use [VSC](https://code.visualstudio.com/) and [Idea](https://www.jetbrains.com/fr-fr/idea/) IDE powered by [Microsoft](https://code.visualstudio.com/) and [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
+- 💻 I use [VSC](https://code.visualstudio.com/) and [Idea](https://www.jetbrains.com/fr-fr/idea/) IDE powered by [Microsoft](https://visualstudio.microsoft.com/fr/) and [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
 - 🥖 I live in France
 
 
 ## 🌍 Programming languages:
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="c++" src="https://img.shields.io/badge/-C++-21B500?style=flat-square&logo=C++&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JS" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="C" src="https://zupimages.net/up/21/20/viej.png" />
+  <img alt="C++" src="https://zupimages.net/up/21/20/bug7.png" />
+  <img alt="C#" src="https://zupimages.net/up/21/20/w5na.png" />
+  <img alt="Java" src="https://zupimages.net/up/21/20/dcu5.png" />
   
 </p>
 
