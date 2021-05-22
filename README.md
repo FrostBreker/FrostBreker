@@ -1,16 +1,16 @@
-### **Hi, I'm FrostBreker (NK7)**
+### Hi, I'm FrostBreker (NK7)
 
 [![discord](https://discord.com/api/guilds/559414466664464384/widget.png)](https://discord.gg/QHqYVuBpF4)
 
 
 
-- 🔭 I’m currently working on **[EcoleDirecte BOT](https://github.com/FrostBreker/Ecole-Direct-Bot)
-- 🔭 **[EcoleDirecte Login web](https://github.com/FrostBreker/ec-site) and ...
-- 🔭 **[EcoleDirecte Bot Site](https://github.com/FrostBreker/ecoledirecte-bot-web)
-- 📫 How to reach me: **[Discord](https://discord.gg/QHqYVuBpF4)
-- 💻 I use **[VSC](https://code.visualstudio.com/) and **[Idea](https://www.jetbrains.com/fr-fr/idea/) IDE powered by **[Microsoft](https://visualstudio.microsoft.com/fr/) and **[JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
+- 🔭 I’m currently working on [EcoleDirecte BOT](https://github.com/FrostBreker/Ecole-Direct-Bot)
+- 🔭 [EcoleDirecte Login web](https://github.com/FrostBreker/ec-site) and ...
+- 🔭 [EcoleDirecte Bot Site](https://github.com/FrostBreker/ecoledirecte-bot-web)
+- 📫 How to reach me: [Discord](https://discord.gg/QHqYVuBpF4)
+- 💻 I use [VSC](https://code.visualstudio.com/) and [Idea](https://www.jetbrains.com/fr-fr/idea/) IDE powered by [Microsoft](https://visualstudio.microsoft.com/fr/) and [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
 - 🥖 I live in France
-- [<img src="https://zupimages.net/up/19/34/5qd1.png" width="24"/> **Twitter](https://twitter.com/FrostBreker)
+- [<img src="https://zupimages.net/up/19/34/5qd1.png" width="24"/> Twitter](https://twitter.com/FrostBreker)
 
 
 ## 🌍 Programming languages:
@@ -41,10 +41,10 @@
 
 
 ## 🚩 Projects:
-- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> **EcoleDirecte Bot](https://github.com/FrostBreker/Ecole-Direct-Bot)
-- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> **EcoleDirecte Login web](https://github.com/FrostBreker/ec-site)
-- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> **EcoleDirecte Bot Site](https://github.com/FrostBreker/ecoledirecte-bot-web)
-- [<img src="https://zupimages.net/up/21/20/x2gt.png" width="24"/> **Netherite MC1.7.10](https://github.com/FrostBreker/Netherite-1.7.10)
+- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte Bot](https://github.com/FrostBreker/Ecole-Direct-Bot)
+- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte Login web](https://github.com/FrostBreker/ec-site)
+- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte Bot Site](https://github.com/FrostBreker/ecoledirecte-bot-web)
+- [<img src="https://zupimages.net/up/21/20/x2gt.png" width="24"/> Netherite MC1.7.10](https://github.com/FrostBreker/Netherite-1.7.10)
 
 
 <p align="left"> 
