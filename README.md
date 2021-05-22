@@ -40,16 +40,16 @@
 
 
 ## 🚩 Projects:
-- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> Atom](https://atom-bot.me)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="24"/> discord-autorole-badges](https://github.com/Derpinou/discord-autorole-badges)
-- [<img src="https://images.discordapp.net/avatars/634818840542445580/eabd1fc9d9165714ad6662e7e6b35705.png?size=512" width="24"/> ChilledBot](https://top.gg/bot/634818840542445580)
+- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte Bot](https://github.com/FrostBreker/Ecole-Direct-Bot)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="24"/> EcoleDirecte Login web](https://github.com/FrostBreker/ec-site)
+- [<img src="https://images.discordapp.net/avatars/634818840542445580/eabd1fc9d9165714ad6662e7e6b35705.png?size=512" width="24"/> EcoleDirecte Bot Site](https://github.com/FrostBreker/ecoledirecte-bot-web)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="24"/> discord-antiraid](https://github.com/Derpinou/discord-antiraid)
 
 
 <p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
+  <img src="https://profile-counter.glitch.me/FrostBreker/count.svg" />
 </p>
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Derpinou&show_icons=true&hide_border=true" />
-<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=derpinou&show_icons=true&theme=tokyonight&layout=compact" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrostBreker&show_icons=true&hide_border=true" />
+<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=frostbreker&show_icons=true&theme=tokyonight&layout=compact" />
