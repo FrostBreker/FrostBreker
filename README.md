@@ -43,7 +43,7 @@
 ## 🚩 Projects:
 - [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte Bot](https://github.com/FrostBreker/Ecole-Direct-Bot)
 - [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte SITE](https://github.com/FrostBreker/ec-site-V2)
-- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> Pop - SocialNetwork](https://github.com/FrostBreker/Pop-SocialNetwork)
+- [<img src="https://zupimages.net/up/21/42/twrs.png" width="24"/> Pop - SocialNetwork](https://github.com/FrostBreker/Pop-SocialNetwork)
 - [<img src="https://zupimages.net/up/21/20/x2gt.png" width="24"/> Netherite MC1.7.10](https://github.com/FrostBreker/Netherite-1.7.10)
 
 
