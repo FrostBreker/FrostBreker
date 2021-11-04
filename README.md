@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on [EcoleDirecte BOT](https://github.com/FrostBreker/Ecole-Direct-Bot)
-- 🔭 [EcoleDirecte SITE](https://github.com/FrostBreker/ec-site-V2) and ...
+- 🔭 I’m currently working on [EcoleDirecte BOT](https://ecole-directe-site.herokuapp.com/)
+- 🔭 [EcoleDirecte SITE](https://ecole-directe-site.herokuapp.com/) and ...
 - 🔭 [Pop - SocialNetwork](https://github.com/FrostBreker/Pop-SocialNetwork)
 - 📫 How to reach me: [Discord](https://discord.gg/QHqYVuBpF4)
 - 💻 I use [VSC](https://code.visualstudio.com/) and [Idea](https://www.jetbrains.com/fr-fr/idea/) IDE powered by [Microsoft](https://visualstudio.microsoft.com/fr/) and [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
