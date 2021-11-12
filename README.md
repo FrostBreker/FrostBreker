@@ -12,6 +12,8 @@
 - 🥖 I live in France
 - [<img src="https://zupimages.net/up/19/34/5qd1.png" width="24"/> Twitter](https://twitter.com/FrostBreker)
 
+Pour me soutenir [ICI](https://www.coinbase.com/join/EG4VA0)
+
 
 ## 🌍 Programming languages:
 <p>
