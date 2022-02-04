@@ -55,3 +55,4 @@ Pour me soutenir [ICI](https://www.coinbase.com/join/EG4VA0)
 </p>
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostBreker&layout=compact" />
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrostBreker&show_icons=true&hide_border=true" />
+<img align="left" alt="My Github Stats" src="https://my-card-stats.vercel.app/api?username=FrostBreker&show_icons=true&hide_border=true" />
