@@ -53,6 +53,7 @@ Pour me soutenir [ICI](https://www.coinbase.com/join/EG4VA0)
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/FrostBreker/count.svg" />
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrostBreker&show_icons=true&hide_border=true" />
 <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=frostbreker&show_icons=true&theme=tokyonight&layout=compact" />
