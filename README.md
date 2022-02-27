@@ -22,8 +22,6 @@ Pour me soutenir [ICI](https://www.coinbase.com/join/EG4VA0)
   <img alt="JS" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-EA770A?style=flat-square&logo=&logoColor=lightblueg" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-0051FF?style=flat-radius&logo=&logoColor=blue" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00FFF0?style=flat-radius&logo=&logoColor=lightblue" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-B900FF?style=flat-radius&logo=&logoColor=lightblueg" />
   
 </p>
