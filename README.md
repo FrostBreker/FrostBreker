@@ -1,8 +1,6 @@
 ### Hi, I'm FrostBreker (NK7)
 
-[![discord](https://discord.com/api/guilds/845653406541676565/widget.json)](https://discord.gg/QHqYVuBpF4)
-
-
+<iframe src="https://discord.com/widget?id=830547170980921346&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 - 🔭 I’m currently working on [EcoleDirecte BOT](https://ecole-directe-site.herokuapp.com/)
 - 📫 How to reach me: [Discord](https://discord.gg/QHqYVuBpF4)
