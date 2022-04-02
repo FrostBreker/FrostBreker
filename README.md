@@ -1,6 +1,6 @@
 ### Hi, I'm FrostBreker (NK7)
 
-
+[![discord](https://discord.com/widget?id=830547170980921346&theme=dark)](https://discord.gg/QHqYVuBpF4)
 - 🔭 I’m currently working on [EcoleDirecte BOT](https://ecole-directe-site.herokuapp.com/)
 - 📫 How to reach me: [Discord](https://discord.gg/QHqYVuBpF4)
 - 💻 I use [VSC](https://code.visualstudio.com/) and [Idea](https://www.jetbrains.com/fr-fr/idea/) IDE powered by [Microsoft](https://visualstudio.microsoft.com/fr/) and [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
@@ -8,8 +8,6 @@
 - [<img src="https://zupimages.net/up/19/34/5qd1.png" width="24"/> Twitter](https://twitter.com/FrostBreker)
 
 Pour me soutenir [ICI](https://www.paypal.com/paypalme/frostbrekerdev)
-
-<img src="https://discord.com/widget?id=830547170980921346&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></img>
 
 
 ## 🌍 Programming languages:
