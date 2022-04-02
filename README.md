@@ -5,8 +5,6 @@
 
 
 - 🔭 I’m currently working on [EcoleDirecte BOT](https://ecole-directe-site.herokuapp.com/)
-- 🔭 [EcoleDirecte SITE](https://ecole-directe-site.herokuapp.com/) and ...
-- 🔭 [Pop - SocialNetwork](https://github.com/FrostBreker/Pop-SocialNetwork)
 - 📫 How to reach me: [Discord](https://discord.gg/QHqYVuBpF4)
 - 💻 I use [VSC](https://code.visualstudio.com/) and [Idea](https://www.jetbrains.com/fr-fr/idea/) IDE powered by [Microsoft](https://visualstudio.microsoft.com/fr/) and [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
 - 🥖 I live in France
@@ -35,15 +33,8 @@ Pour me soutenir [ICI](https://www.paypal.com/paypalme/frostbrekerdev)
     <img alt="vsc" width="45px" src="https://zupimages.net/up/21/07/wp8q.png"/>
 </p>
   
-
-
-
-
-
 ## 🚩 Projects:
-- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte Bot](https://github.com/FrostBreker/Ecole-Direct-Bot)
-- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte SITE](https://github.com/FrostBreker/ec-site-V2)
-- [<img src="https://zupimages.net/up/21/42/twrs.png" width="24"/> Pop - SocialNetwork](https://github.com/FrostBreker/Pop-SocialNetwork)
+- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte Bot](https://github.com/FrostBreker/EDBot)
 - [<img src="https://zupimages.net/up/21/20/x2gt.png" width="24"/> Netherite MC1.7.10](https://github.com/FrostBreker/Netherite-1.7.10)
 
 
