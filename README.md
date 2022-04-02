@@ -1,6 +1,5 @@
 ### Hi, I'm FrostBreker (NK7)
 
-<iframe src="https://discord.com/widget?id=830547170980921346&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 - 🔭 I’m currently working on [EcoleDirecte BOT](https://ecole-directe-site.herokuapp.com/)
 - 📫 How to reach me: [Discord](https://discord.gg/QHqYVuBpF4)
@@ -9,6 +8,8 @@
 - [<img src="https://zupimages.net/up/19/34/5qd1.png" width="24"/> Twitter](https://twitter.com/FrostBreker)
 
 Pour me soutenir [ICI](https://www.paypal.com/paypalme/frostbrekerdev)
+
+<img src="https://discord.com/widget?id=830547170980921346&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></img>
 
 
 ## 🌍 Programming languages:
@@ -19,7 +20,6 @@ Pour me soutenir [ICI](https://www.paypal.com/paypalme/frostbrekerdev)
   <img alt="Java" src="https://img.shields.io/badge/-Java-EA770A?style=flat-square&logo=&logoColor=lightblueg" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-B900FF?style=flat-radius&logo=&logoColor=lightblueg" />
-  
 </p>
 
 ## ⚙️ Programming Tools:
