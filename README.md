@@ -12,7 +12,6 @@ Pour me soutenir [ICI](https://www.paypal.com/paypalme/frostbrekerdev)
 
 ## 🌍 Programming languages:
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-EA770A?style=flat-square&logo=&logoColor=lightblueg" />
