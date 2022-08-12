@@ -40,4 +40,4 @@ Pour me soutenir [ICI](https://www.paypal.com/paypalme/frostbrekerdev)
 
 <img align="left" alt="My Github Stats" src="https://my-card-stats.vercel.app/api/top-langs/?username=FrostBreker&langs_count=8&count_private=true&show_icons=true&theme=radical&hide_border=true&layout=compact" />
 <img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrostBreker&count_private=true&show_icons=true&theme=radical&hide_border=true" />
-<img align="center" alt="DiscordPresence" src="http://panel.nk7.ovh:5000/presence/284792282249428993" />
+<iframe align="center" src="http://panel.nk7.ovh:5000/presence/284792282249428993" />
