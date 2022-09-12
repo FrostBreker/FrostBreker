@@ -29,8 +29,7 @@ Pour me soutenir [ICI](https://www.paypal.com/paypalme/frostbrekerdev)
 </p>
   
 ## 🚩 Projects:
-- [<img src="https://zupimages.net/up/21/20/npla.png" width="24"/> EcoleDirecte Bot](https://github.com/FrostBreker/EDBot)
-- [<img src="https://zupimages.net/up/21/20/x2gt.png" width="24"/> Netherite MC1.7.10](https://github.com/FrostBreker/Netherite-1.7.10)
+- [<img src="https://ecole-directe-site.herokuapp.com/favicon.ico" width="24"/> EcoleDirecte Bot](https://github.com/FrostBreker/EDBotV3)
 
 
 <p align="left"> 
