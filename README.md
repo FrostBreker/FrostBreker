@@ -31,11 +31,7 @@ Pour me soutenir [ICI](https://www.paypal.com/paypalme/frostbrekerdev)
 ## 🚩 Projects:
 - [<img src="https://ecole-directe-site.herokuapp.com/favicon.ico" width="24"/> EcoleDirecte Bot](https://github.com/FrostBreker/EDBotV3)
 
-
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/FrostBreker/count.svg" />
-</p>
+![Metrics](https://metrics.lecoq.io/FrostBreker?template=classic&lines=1&introduction=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&introduction=false&introduction.title=true&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=FrostBreker&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=true&wakatime.repositories.visibility=all&config.timezone=Europe%2FParis)
 
 <img align="left" alt="My Github Stats" src="https://my-card-stats.vercel.app/api/top-langs/?username=FrostBreker&langs_count=8&count_private=true&show_icons=true&theme=radical&hide_border=true&layout=compact" />
 <img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrostBreker&count_private=true&show_icons=true&theme=radical&hide_border=true" />
