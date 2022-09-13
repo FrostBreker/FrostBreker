@@ -2,6 +2,9 @@
 
 ![Metrics](https://metrics.lecoq.io/FrostBreker?template=classic&lines=1&introduction=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&introduction=false&introduction.title=true&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=FrostBreker&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=true&wakatime.repositories.visibility=all&config.timezone=Europe%2FParis)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![discord](https://discord.com/widget?id=830547170980921346&theme=dark)](https://discord.gg/QHqYVuBpF4)
 - 🔭 I’m currently working on [EcoleDirecte BOT](https://ecole-directe-site.herokuapp.com/)
 - 📫 How to reach me: [Discord](https://discord.gg/QHqYVuBpF4)
