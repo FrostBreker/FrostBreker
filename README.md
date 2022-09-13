@@ -2,6 +2,16 @@
 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 02 October 2021 - To: 12 September 2022
+
+Total Time: 9 mins
+
+Java         4 mins          >>>>>>>>>>>>>------------   51.04 %
+JavaScript   4 mins          >>>>>>>>>>>>-------------   48.96 %
+```
+
 <!--END_SECTION:waka-->
 
 [![discord](https://discord.com/widget?id=830547170980921346&theme=dark)](https://discord.gg/QHqYVuBpF4)
