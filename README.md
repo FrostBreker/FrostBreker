@@ -1,18 +1,6 @@
 ### Hi, I'm FrostBreker (NK7)
 
-
-<!--START_SECTION:waka-->
-
-```text
-From: 02 October 2021 - To: 12 September 2022
-
-Total Time: 9 mins
-
-Java         4 mins          >>>>>>>>>>>>>------------   51.04 %
-JavaScript   4 mins          >>>>>>>>>>>>-------------   48.96 %
-```
-
-<!--END_SECTION:waka-->
+![Metrics](https://metrics.lecoq.io/FrostBreker?template=classic&isocalendar=1&lines=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Europe%2FParis)
 
 [![discord](https://discord.com/widget?id=830547170980921346&theme=dark)](https://discord.gg/QHqYVuBpF4)
 - 🔭 I’m currently working on [EcoleDirecte BOT](https://ecole-directe-site.herokuapp.com/)
