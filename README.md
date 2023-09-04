@@ -1,4 +1,4 @@
-### Hi, I'm FrostBreker (NK7)
+### Hi, I'm FrostBreker
 
 ![Metrics](/github-metrics.svg)
 
