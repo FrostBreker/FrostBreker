@@ -88,14 +88,14 @@ func main() {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrostBreker&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostBreker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostBreker&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="/github-metrics.svg" alt="Detailed Metrics"/>
