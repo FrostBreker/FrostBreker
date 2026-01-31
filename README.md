@@ -126,96 +126,11 @@ func main() {
 
 ---
 
-## 📦 Open Source Packages
-
-### Go Libraries
-
-<div align="center">
-
-| Package | Description | Stars |
-|---------|-------------|-------|
-| [spotify-private-api](https://github.com/FrostBreker/spotify-private-api) | Go client for Spotify's private API | ![Stars](https://img.shields.io/github/stars/FrostBreker/spotify-private-api?style=social) |
-| [go-playstation-api](https://github.com/FrostBreker/go-playstation-api) | Go client for PlayStation Network API | ![Stars](https://img.shields.io/github/stars/FrostBreker/go-playstation-api?style=social) |
-| [yfinance-api](https://github.com/FrostBreker/yfinance-api) | Go library for Yahoo Finance data | ![Stars](https://img.shields.io/github/stars/FrostBreker/yfinance-api?style=social) |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🎵 SoundTales — Spotify Analytics Platform
-**SaaS platform for Spotify analytics** (Abandoned - Spotify validation rejection)
-- Complete statistics dashboard: top artists, tracks, genres, listening time
-- Period comparisons, personalized playlists, social sharing
-- **Stack**: Go, Next.js, MongoDB, Stripe, Docker
-- 🔗 [soundtales.fr](https://soundtales.fr)
-
-### 🌐 AeroBrowser
-**Lightweight web browser** built with Electron and React
-- Multi-tab navigation, bookmark management
-- Clean and fast interface
-- **Stack**: Electron, React, JavaScript
-- 🔗 [GitHub](https://github.com/FrostBreker/AeroBrowser) • ![Stars](https://img.shields.io/github/stars/FrostBreker/AeroBrowser?style=social)
-
-### 🎮 Minecraft Mods — 150K+ Downloads
-**Popular Minecraft mods** on CurseForge and Modrinth
-- **Trails & Tales Backport**: 75K+ downloads
-- **NetherUpdate Netherite**: 70K+ downloads
-- Backporting new Minecraft versions to older releases
-- **Stack**: Java, Minecraft Forge, Gradle
-
-### 📚 MyEFREI Grades
-**Student grade tracking app** for EFREI students
-- Track grades, averages, and ECTS per semester
-- Secure OAuth Google login, S1/S2 templates
-- **Stack**: Next.js, Tailwind CSS, NextAuth.js, MongoDB
-- 🔗 [grades.genivo.fr](https://grades.genivo.fr)
-
----
-
-## 💼 Professional Experience
-
-**🎨 Freelance Full Stack Engineer** • Fiverr  
-*Aug 2022 — Present*
-- Custom Discord bot development for clients worldwide
-- Automation, role systems, mini-games, API integration (Spotify, Twitch, YouTube)
-- **Skills**: Node.js, Discord.js, MongoDB, APIs
-
-**📊 Data & ML Intern** • I-TRACING (LVMH)  
-*Jun 2023*
-- Data visualization and Machine Learning for LVMH
-- Predictive models, data analysis, interactive dashboards
-- **Skills**: Python, TensorFlow, Keras, Machine Learning
-
----
-
-## 🎓 Education
-
-**EFREI Paris** — Classes Préparatoires (CPGE)  
-*Software Engineering • Sep 2025 — Jun 2027*
-
-**Lycée Saint-Nicolas Paris** — Bac STI2D  
-*Mention Bien (15.45/20) • Sep 2022 — Jun 2025*
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
   
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FrostBreker&theme=tokyo-night&hide_border=true)](https://github.com/FrostBreker)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 📦 90+ Repositories | 📥 150K+ Mod Downloads | ⭐ Open Source Packages | 💼 4+ Years Freelancing |
-|:---:|:---:|:---:|:---:|
 
 </div>
 
